@@ -1,0 +1,7 @@
+/usr/local/lib/iridrivers/libmhekf_tracking.so
+/usr/local/include/iridrivers/mhekf_tracking.h
+/usr/local/include/iridrivers/observation.h
+/usr/local/include/iridrivers/track.h
+/usr/local/include/iridrivers/tracking_target.h
+/usr/local/include/iridrivers/struct_definitions.h
+/usr/share/cmake-3.5/Modules/Findmhekf_tracking.cmake
